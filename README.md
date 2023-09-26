@@ -1,7 +1,7 @@
 </p align="center">
 <img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/background.png" />
 
-<h2 align="center">Technology Stack <img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/placeholder%20gif.gif" width="100"></h2>
+<h2 align="center">Learnt languages<img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/placeholder%20gif.gif" width="100"></h2>
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
