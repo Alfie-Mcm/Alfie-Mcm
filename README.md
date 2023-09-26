@@ -17,6 +17,7 @@
 <img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/vscode.svg" title="VS Code" alt="Visual studio code" width="40" height= "40"/>&nbsp;
 <br />
 
+<p align="center">
 Hi, I'm Alfie. I am a student that is currently working on projects in multiple programming languages. Some of my projects are still in the process of being uploaded atm. Hopefully they're done soon (: 
 
 <h2 align="center">Main projects<img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/placeholder%20gif.gif" width="100"></h2>
