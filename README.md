@@ -4,12 +4,12 @@
 <h2 align="center">Learnt languages<img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/placeholder%20gif.gif" width="100"></h2>
 
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt = "Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height= "40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android studio" width="40" height= "40"/>&nbsp;
+<img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/css3.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/html5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/mysql.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/python.svg" title="Python" alt = "Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/cplusplus.svg" title="C++" alt="C++" width="40" height= "40"/>&nbsp;
+<img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/androidstudio.svg" title="Android Studio" alt="Android studio" width="40" height= "40"/>&nbsp;
 
   
 <br />
