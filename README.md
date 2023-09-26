@@ -1,5 +1,5 @@
 </p align="center">
-<img src="" width="1080" height="400"/>
+<img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/banner.png" width="1080" height="480"/>
 
 <h2 align="center">Tech stack<img src="https://github.com/Alfie-Mcm/Alfie-Mcm/blob/main/assets/placeholder%20gif.gif" width="100"></h2>
 
